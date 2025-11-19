@@ -1,47 +1,40 @@
 # Meeting Notes
 
-**Date**: [Date]  
-**Time**: [Start - End]  
-**Type**: [Weekly Meeting / Retrospective / Ad-hoc]
+**Date**: November 19, 2025 
+**Time**: 2:15  
+**Type**: Weekly Meeting
 
 ---
 
 ## Attendees
 
-**Present**: [Names]  
-**Absent**: [Names with reason if known]
+**Present**: Sayo, Jaiden, Ubi, Giorgina, Elaine 
+**Absent**: None
 
 ---
 
 ## Agenda
 
-1. [Agenda item 1]
-2. [Agenda item 2]
-3. [Agenda item 3]
+1. PR #25 - next steps
+2. GUI
+3. Project Close-out
 
 ---
 
 ## Discussion
 
-### Topic 1: [Name]
-- [Key points discussed]
-- [Decisions made]
+### Topic 1: PR #25
+- DECISION: Update README to reflect `compile` instead of `build`
+- Everyone up to speed on how to test/run another team member's fork/branch locally
 
-### Topic 2: [Name]
-- [Key points]
-- [Decisions]
+### Topic 2: UI/UX
+- DECISION: COMPLETE
 
-### Topic 3: [Name]
-- [Points]
-- [Decisions]
-
----
-
-## Decisions
-
-| Decision | Rationale | Who |
-|----------|-----------|-----|
-| [What was decided] | [Why] | [Who approved] |
+### Topic 3: Project Close-out
+- Tasks for everyone: 
+    - finish user story tasks
+    - add stats to contribution_summary.md
+    - create peer reflection using template and add to ./peer_reflections
 
 ---
 
@@ -49,17 +42,9 @@
 
 | Action | Owner | Due Date | Status |
 |--------|-------|----------|--------|
-| [Task] | [Name] | [Date] | ⏳ |
-| [Task] | [Name] | [Date] | ⏳ |
+| Update README | Giorgina | Today | Done |
+| Project Close-out | EVERYONE | Friday | ⏳ |
 
 ---
 
-## Next Meeting
-
-**Date**: [Next meeting date]  
-**Time**: [Time]  
-**Topics**: [Preview of agenda]
-
----
-
-**Notes by**: [Name]
+**Notes by**: Giorgina Gottlieb

@@ -3,9 +3,8 @@
 Capture GitHub Project board at key milestones:
 
 - **Nov 12**: Initial backlog
-- **Nov 16**: Work in progress  
-- **Nov 20**: Mid-project
+- **Nov 19**: Work in progress  
 
-**Naming**: `nov12_initial_backlog.png`, `nov16_wip.png`, etc.
+**Naming**: `nov12_initial_backlog.png`, `nov19_wip.png`, etc.
 
-**What to show**: All columns visible, cards readable, date visible
+**What to show**: All columns visible, cards readable

@@ -2,7 +2,7 @@
 
 ## Vision Statement
 
-For students attending job fairs who need an efficient way to take, organize, and analyze notes about companies they meet, the Job Fair Note App is a command-line application that helps users capture company details, compare opportunities, and track follow-ups all in one place. Unlike traditional pen-and-paper notes or generic note apps, our product provides structured data entry and company insights tailored specifically for job fair preparation and post-event evaluation.
+For students attending job fairs who need an efficient way to take, organize, and analyze notes about companies they meet, the Job Fair Note App is a command-line application with user-friendly front end that helps users capture company details, compare opportunities, and track follow-ups all in one place. Unlike traditional pen-and-paper notes or generic note apps, our product provides structured data entry and company insights tailored specifically for job fair preparation and post-event evaluation.
 
 **Note**: The initial implementation is a console application to meet project technical requirements (Java + Apache Ant). Future versions may include a mobile interface.
 
@@ -48,11 +48,10 @@ All project documentation is in the `/docs` directory. See [Documentation Index]
 ### Prerequisites
 - Java Development Kit (JDK)
 - Apache Ant
-- Git
 
 ### Building
 ```bash
-ant build
+ant compile
 ```
 
 ### Running Tests
