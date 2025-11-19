@@ -38,8 +38,8 @@ For the Job Fair Note App project, we selected **Kanban** as our development met
 
 ### Board Columns
 
-1. **Backlog** - All user stories waiting to be prioritized
-2. **Ready** - Stories that are refined and ready to work on
+1. **Backlog** - All user stories and tasks waiting to be prioritized
+2. **Ready** - Stories and/or tasks that are refined and ready to work on
 3. **In Progress** - Active development (WIP limit: 3 items)
 4. **Review** - Code review and testing (WIP limit: 2 items)
 5. **Done** - Completed and merged
@@ -78,4 +78,4 @@ A story is "Done" when:
 
 ---
 
-**Last Updated**: November 12, 2025
+**Last Updated**: November 18, 2025

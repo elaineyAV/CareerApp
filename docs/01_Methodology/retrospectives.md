@@ -17,7 +17,7 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 ## Retrospective #1: Planning Phase Review
 
 **Date**: November 12, 2025  
-**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo 
+**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo  
 **Context**: Continuing planning
 
 ### What Went Well ✅
@@ -43,7 +43,7 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 ## Retrospective #2: Early Development Review
 
 **Date**: November 17, 2025  
-**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo 
+**Attendees**: Elaine, Giorgina, Jaiden, Ubi, Sayo  
 **Context**: Development stall
 
 ### What Went Well ✅
@@ -61,11 +61,11 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 | Action | Owner | Deadline | Status |
 |--------|-------|----------|--------|
 | User Story # 6 needs to be refined and divided into subtasks | Team | Today | 🟡 |
-| User Story # 5 | @Ubi | Wednesday | 🟡 |
-| User Story # 2 | @Jaiden | Wednesday | 🟡 |
-| Add/update documentation (e.g., screenshots) | @giorgina | Tuesday | 🟡 |
-| User Story # 4 | @Sayo | Wednesday | 🟡 |
-| User Story # 3 | @Elaine | Wednesday | 🟡 |
+| User Story # 5 - complete card | Ubi | Wednesday | 🟡 |
+| User Story # 2 - complete card | Jaiden | Wednesday | 🟡 |
+| Add/update documentation (e.g., screenshots) | Giorgina | Tuesday | 🟡 |
+| User Story # 4 - complete card | Sayo | Wednesday | 🟡 |
+| User Story # 3 - complete card | Elaine | Wednesday | 🟡 |
 
 ---
 
@@ -219,4 +219,4 @@ Regular team retrospectives to reflect on our process and continuously improve. 
 
 ---
 
-**Last Updated**: November 17, 2025
+**Last Updated**: November 18, 2025

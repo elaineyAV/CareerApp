@@ -15,8 +15,8 @@
 |-----------|-------------|--------|
 | Vision statement submitted | Oct 29 | ✅ |
 | Team formation and initial discussions | Nov 3-6 | ✅ |
-| User story concepts drafted | Nov 7-12 | 🟡 In Progress |
-| Team agreement drafted | Nov 11-12 | 🟡 In Progress |
+| User story concepts drafted | Nov 7-12 | ✅ |
+| Team agreement drafted | Nov 11-12 | ✅ |
 
 **Deliverables**: Vision statement, initial requirements, team formation
 
@@ -32,8 +32,8 @@
 | Methodology documentation complete | Nov 12 | ✅ |
 | Communication plan finalized | Nov 12 | ✅ |
 | Team agreement finalized | Nov 12 | ✅ |
-| User stories in GitHub Issues | Nov 10-12 | 🟡 In Progress |
-| Kanban board populated | Nov 10-12 | 🟡 In Progress |
+| User stories in GitHub Issues | Nov 10-12 | ✅ |
+| Kanban board populated | Nov 10-12 | ✅ |
 | Development environment setup | Nov 12-14 | 🟡 In Progress |
 | Mid-project retrospective | Nov 15-16 | ✅ |
 
@@ -52,8 +52,8 @@
 | Basic project structure and build setup | Nov 17-18 | 🟡 In Progress |
 | Documentation review & completion | Nov 18-19 | 🟡 In Progress |
 | Peer reflections completed | Nov 19 | ⏳ |
-| Contribution summary finalized | Nov 19-20 | ⏳ |
-| Retrospective through Nov 21 | Nov 20 | ⏳ |
+| Contribution summary finalized | Nov 19-20 | 🟡 In Progress |
+| Retrospective through Nov 21 | Nov 20 | 🟡 In Progress |
 
 **Phase 3 Deliverables**: 
 - Objectives documentation package
@@ -189,5 +189,5 @@ This approach allows us to focus on functionality first with the current technic
 
 ---
 
-**Last Updated**: November 17, 2025 
+**Last Updated**: November 18, 2025 
 **Owner**: Giorgina Gottlieb

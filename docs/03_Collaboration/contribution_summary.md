@@ -12,14 +12,13 @@
 
 ### Commit Statistics
 
-*Generate using:* `git shortlog -sn --all --no-merges`
-
 | Team Member | Commits | Lines Added | Lines Deleted |
 |-------------|---------|-------------|---------------|
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
+| Ubaldo | [#] | [#] | [#] |
+| Giorgina | 6 | 1637 | 16 |
+| Sayo | [#] | [#] | [#] |
+| Jaiden | [#] | [#] | [#] |
+| Elaine | 1 | [#] | [#] |
 
 ---
 
@@ -27,10 +26,23 @@
 
 | Team Member | PRs Created | PRs Merged | PRs Reviewed |
 |-------------|-------------|------------|--------------|
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
-| [Name] | [#] | [#] | [#] |
+| Ubaldo | [#] | [#] | [#] |
+| Giorgina | 4 | 3 | 0 |
+| Sayo | [#] | [#] | [#] |
+| Jaiden | [#] | [#] | [#] |
+| Elaine | [#] | [#] | [#] |
+
+---
+
+### Issue Activity
+
+| Team Member | Issues Created | Issues Closed | Issues Assigned |
+|-------------|----------------|---------------|-----------------|
+| Ubaldo | [#] | [#] | [#] |
+| Giorgina | 10 | 5 | 6 |
+| Sayo | [#] | [#] | [#] |
+| Jaiden | [#] | [#] | [#] |
+| Elaine | [#] | [#] | [#] |
 
 ---
 
@@ -38,27 +50,13 @@
 
 ### Ubaldo Bogarin
 **Key Contributions**:
-- [Major features or tasks]
-
-**Stats**:
-- Commits: [#]
-- PRs: [#]
-- Reviews: [#]
-
-**Highlight**: [One sentence about most significant contribution]
+- COntributed core build and UI
 
 ---
 
 ### Giorgina Gottlieb
 **Key Contributions**:
-- [Major features or tasks]
-
-**Stats**:
-- Commits: [#]
-- PRs: [#]
-- Reviews: [#]
-
-**Highlight**: [Most significant contribution]
+- Created and maintained core documentation: [PR #7](https://github.com/Mindful-Makers/CareerApp/pull/7), [PR #9](https://github.com/Mindful-Makers/CareerApp/pull/9), [PR #23](https://github.com/Mindful-Makers/CareerApp/pull/23)
 
 ---
 
@@ -66,25 +64,11 @@
 **Key Contributions**:
 - [Major features or tasks]
 
-**Stats**:
-- Commits: [#]
-- PRs: [#]
-- Reviews: [#]
-
-**Highlight**: [Most significant contribution]
-
 ---
 
 ### Jaiden Searle
 **Key Contributions**:
 - [Major features or tasks]
-
-**Stats**:
-- Commits: [#]
-- PRs: [#]
-- Reviews: [#]
-
-**Highlight**: [Most significant contribution]
 
 ---
 
@@ -92,57 +76,77 @@
 **Key Contributions**:
 - [Major features or tasks]
 
-**Stats**:
-- Commits: [#]
-- PRs: [#]
-- Reviews: [#]
-
-**Highlight**: [Most significant contribution]
-
 ---
 
 ## Collaboration Examples
 
-### Example 1: [Feature or PR]
-- **Contributors**: [Names]
-- **What happened**: [Brief description of collaboration]
-- **Link**: [GitHub PR or issue link]
-
-### Example 2: [Feature or PR]
-- **Contributors**: [Names]
-- **What happened**: [Description]
-- **Link**: [Link]
+### Example 1: PR #25
+- **Contributors**: Ubi, Jaiden, Giorgina, Sayo, Elaine
+- **What happened**: Collaborated on PR related to core functionality (iteration 0)
+- **Link**: [https://github.com/Mindful-Makers/CareerApp/pull/25]
 
 ---
 
 ## Generating Statistics
 
-### Useful Git Commands
+### For Accurate Statistics
+- Run commands from your local repo (must be up to date: `git pull`)
+- Make sure all remotes are fetched: `git fetch --all`
+- Names must match exactly as they appear in git config
 
-**Commit count by author:**
+### Get Commit Count by Author
+
+**For summary of all contributors**, run:
 ```bash
 git shortlog -sn --all --no-merges
 ```
 
-**Detailed stats:**
-```bash
-git log --author="Name" --pretty=tformat: --numstat | \
-awk '{ add += $1; subs += $2 } END { print "added:", add, "removed:", subs }'
-```
+### Get Lines Added/Deleted per Author
 
-**PR and review activity:**
-- Use GitHub insights page
-- Or GitHub CLI: `gh pr list --author [username]`
+**For each team member**, run:
+```bash
+git log --author="Ubaldo Bogarin" --stat
+```
+Then manually look at the bottom summary line that shows insertions/deletions.
+
+Replace "Ubaldo Bogarin" with each person's name and/or Github username.
+
+### Get Pull Request Activity
+
+1. Go to: https://github.com/Mindful-Makers/CareerApp/pulls
+2. For **PRs Created by each person**:
+   - In search box, type: `is:pr author:username`
+   - Count the results
+3. For **PRs Merged**:
+   - Search: `is:pr is:merged author:username`
+   - Count the results
+4. For **PRs Reviewed by each person**:
+   - Search: `is:pr reviewed-by:username`
+   - Count the results
+
+### Get Issue Activity
+
+1. Go to: https://github.com/Mindful-Makers/CareerApp/issues
+2. For **Issues Created**:
+   - Search: `is:issue author:username`
+   - Count results
+3. For **Issues Closed**:
+   - Search: `is:issue is:closed author:username`
+   - Count results
+4. For **Issues Assigned**:
+   - Search: `is:issue assignee:username`
+   - Count results
+
 
 ---
 
 ## Evidence Links
 
-- **GitHub Repository**: [Link]
-- **Project Board**: [Link]
-- **Pull Requests**: [Link to PRs page]
-- **Commit History**: [Link]
+- **GitHub Repository**: [https://github.com/Mindful-Makers/CareerApp]
+- **Project Board**: [https://github.com/orgs/Mindful-Makers/projects/5]
+- **Pull Requests**: [https://github.com/Mindful-Makers/CareerApp/pulls]
+- **Commit History**: [https://github.com/Mindful-Makers/CareerApp/graphs/commit-activity]
 
 ---
 
-**Last Updated**: November 12, 2025 
+**Last Updated**: November 18, 2025 

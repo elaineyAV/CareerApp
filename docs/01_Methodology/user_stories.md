@@ -25,7 +25,7 @@ Each story includes **Acceptance Criteria** using rule-based or scenario-based f
 ### In GitHub Issues
 - **Title**: Brief story title (e.g., "Quick Company Entry")
 - **Description**: Full user story + acceptance criteria
-- **Labels**: Priority (High/Medium/Low), Epic name, Status
+- **Labels**: Priority (High/Medium/Low), Status
 - **Project**: Linked to Kanban board
 - **Assignee**: Who's working on it
 
@@ -83,7 +83,7 @@ So that [benefit].
 
 ### Labels to Use
 - **Priority**: `priority: high`, `priority: medium`, `priority: low`
-- **Type**: `user-story`, `bug`, `task`
+- **Type**: `feature`, `bug`, `task`
 - **Status**: Managed via Project board columns
 
 ### Linking Issues
@@ -115,7 +115,7 @@ Both formats meet stakeholder requirements. Use what works best for each story.
 
 ### In GitHub Project
 1. **Backlog** column: All ideas and future work
-2. **Ready** column: Refined stories ready to start
+2. **Ready** column: Refined and ready to start
 3. **In Progress**: Being actively developed
 4. **Review**: In code review/testing
 5. **Done**: Complete and merged
@@ -130,7 +130,7 @@ Both formats meet stakeholder requirements. Use what works best for each story.
 
 ## Future Development
 
-**Current Scope**: Console application (Java + Ant)  
+**Current Scope**: Console application (Java + Ant) + GUI  
 **Future Vision**: Mobile application
 
 The console implementation focuses on core functionality and data management. Future iterations could adapt the same user stories for a mobile interface, leveraging the established data model and business logic.
@@ -139,4 +139,4 @@ The console implementation focuses on core functionality and data management. Fu
 
 **Primary Tracking**: GitHub Issues & Project Board  
 **This Document**: Format reference and examples for course documentation  
-**Last Updated**: [Date]
+**Last Updated**: November 18, 2025
