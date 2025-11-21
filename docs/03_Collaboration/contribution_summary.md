@@ -56,7 +56,7 @@
 
 ### Giorgina Gottlieb | @giorginamarie  
 **Key Contributions**:
-- Created and maintained core documentation: [PR #7](https://github.com/Mindful-Makers/CareerApp/pull/7), [PR #9](https://github.com/Mindful-Makers/CareerApp/pull/9), [PR #23](https://github.com/Mindful-Makers/CareerApp/pull/23)
+- Created and maintained core documentation: [PR #7](https://github.com/Mindful-Makers/CareerApp/pull/7), [PR #9](https://github.com/Mindful-Makers/CareerApp/pull/9), [PR #23](https://github.com/Mindful-Makers/CareerApp/pull/23), [PR #29](https://github.com/Mindful-Makers/CareerApp/pull/29), [PR #31](https://github.com/Mindful-Makers/CareerApp/pull/31)
 
 ---
 
@@ -136,4 +136,4 @@
 
 ---
 
-**Last Updated**: November 19, 2025 
+**Last Updated**: November 21, 2025 
